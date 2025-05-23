@@ -1,15 +1,11 @@
 <!-- Header with avatar, name, and position -->
-<table style="margin: 0; border-collapse: collapse;" cellpadding="0" cellspacing="0" align="left">
-  <tr>
-    <td style="padding: 0; vertical-align: middle; width: 110px;">
-      <img src="https://drive.google.com/uc?export=view&id=1w-556a02affR8Fy0MG9dvD3PoKGrGITh" alt="Sameer Zakzak" width="100" height="100" style="border-radius: 50%; border: 2px solid #444;" />
-    </td>
-    <td style="padding-left: 15px; vertical-align: middle; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-      <h1 style="margin: 0; padding: 0; font-size: 2.8rem; color: #222;">Sameer Zakzak</h1>
-      <h3 style="margin: 5px 0 0 0; font-weight: 400; color: #555;">AI Engineer | Flutter Developer</h3>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <img src="https://drive.google.com/uc?export=view&id=1w-556a02affR8Fy0MG9dvD3PoKGrGITh" alt="Sameer Zakzak" width="100" height="100" style="border-radius: 50%; border: 2px solid #444;" />
+  <div style="margin-left: 15px;">
+    <h1 style="margin: 0; font-size: 2.8rem; color: #222;">Sameer Zakzak</h1>
+    <h3 style="margin: 5px 0 0 0; font-weight: 400; color: #555;">AI Engineer | Flutter Developer</h3>
+  </div>
+</div>
 
 
 <p align="center">
