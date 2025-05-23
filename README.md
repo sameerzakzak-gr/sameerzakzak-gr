@@ -35,19 +35,19 @@ I build elegant digital tools using AI, Flutter, and smart backend systems. Whet
 ### 🤝 Connect With Me
 
 <p>
-   <a href="mailto:sameerzakzak.gr@outlook.com" target="_blank" style="margin: 0 15px;">
+   <a href="mailto:sameerzakzak.gr@outlook.com" target="_blank" style="margin: 0 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" height="20" alt="Email" title="Email"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/sameer-zakzak" target="_blank" style="margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/sameer-zakzak" target="_blank" style="margin: 0 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn" title="LinkedIn"/>
   </a>
 
-  <a href="https://github.com/sameerzakzak-gr" target="_blank" style="margin: 0 15px;">
+  <a href="https://github.com/sameerzakzak-gr" target="_blank" style="margin: 0 40px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="GitHub" title="GitHub"/>
   </a>
 
-  <a href="https://t.me/sameerzakzak" target="_blank" style="margin: 0 15px;">
+  <a href="https://t.me/sameerzakzak" target="_blank" style="margin: 0 40px;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20" height="20" alt="Telegram" title="Telegram"/>
   </a>
 </p>
