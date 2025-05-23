@@ -35,23 +35,19 @@ I build elegant digital tools using AI, Flutter, and smart backend systems. Whet
 ### 🤝 Connect With Me
 
 <p>
-   <!-- Email -->
-  <a href="mailto:sameerzakzak.gr@outlook.com" target="_blank" style="margin: 0 10px;">
+   <a href="mailto:sameerzakzak.gr@outlook.com" target="_blank" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email" title="Email"/>
   </a>
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/sameer-zakzak" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/sameer-zakzak" target="_blank" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/sameerzakzak-gr" target="_blank" style="margin: 0 10px;">
+  <a href="https://github.com/sameerzakzak-gr" target="_blank" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
   </a>
 
-  <!-- Telegram (Optional) -->
-  <a href="https://t.me/sameerzakzak" target="_blank" style="margin: 0 10px;">
+  <a href="https://t.me/sameerzakzak" target="_blank" style="margin: 0 15px;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" title="Telegram"/>
   </a>
 </p>
