@@ -2,7 +2,7 @@
 <table align="center" cellpadding="10" cellspacing="0" style="margin-bottom: 30px;">
   <tr>
     <td align="center" valign="middle" width="110">
-      <img src="https://drive.google.com/file/d/1w-556a02affR8Fy0MG9dvD3PoKGrGITh/view?usp=sharing" alt="Sameer Zakzak" width="100" height="100" style="border-radius: 50%; border: 2px solid #444;" />
+      <img src="https://drive.google.com/uc?export=view&id=1w-556a02affR8Fy0MG9dvD3PoKGrGITh" alt="Sameer Zakzak" width="100" height="100" style="border-radius: 50%; border: 2px solid #444;" />
     </td>
     <td align="left" valign="middle" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
       <h1 style="margin: 0; padding: 0; font-size: 2.8rem; color: #222;">Sameer Zakzak</h1>
