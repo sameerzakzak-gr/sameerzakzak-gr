@@ -35,17 +35,24 @@ I build elegant digital tools using AI, Flutter, and smart backend systems. Whet
 ### 🤝 Connect With Me
 
 <p>
-  <a href="mailto:sameerzakzak.gr@outlook.com">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+   <!-- Email -->
+  <a href="mailto:sameerzakzak.gr@outlook.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email" title="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/sameer-zakzak">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/sameer-zakzak" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
   </a>
-  <a href="https://github.com/sameerzakzak-gr">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
+  <!-- GitHub -->
+  <a href="https://github.com/sameerzakzak-gr" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
   </a>
-  <a href="https://t.me/sameerzakzak">
-    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+
+  <!-- Telegram (Optional) -->
+  <a href="https://t.me/sameerzakzak" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" title="Telegram"/>
   </a>
 </p>
 
