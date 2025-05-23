@@ -1,16 +1,6 @@
-<div style="display: flex; align-items: center; margin-bottom: 30px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <img
-    src="https://drive.google.com/uc?export=view&id=1w-556a02affR8Fy0MG9dvD3PoKGrGITh"
-    alt="Sameer Zakzak"
-    width="100"
-    height="100"
-    style="border-radius: 50%; border: 2px solid #444; object-fit: cover; min-width: 100px; min-height: 100px;"
-  />
-  <div style="margin-left: 15px;">
-    <h1 style="margin: 0; font-size: 2.8rem; color: #222;">Sameer Zakzak</h1>
-    <h3 style="margin: 5px 0 0 0; font-weight: 400; color: #555;">AI Engineer | Flutter Developer</h3>
-  </div>
-</div>
+<h1 align="center">Sameer Zakzak</h1>
+<h3 align="center">AI Engineer | Flutter Developer</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=Crafting+Elegant+Tech+for+Real+World+Impact;AI%2C+Flutter%2C+Media+Solutions" alt="Typing SVG">
