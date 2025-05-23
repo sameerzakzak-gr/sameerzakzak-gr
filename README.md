@@ -1,5 +1,15 @@
-<h1 align="center">Sameer Zakzak</h1>
-<h3 align="center">AI Engineer | Flutter Developer</h3>
+<!-- Header with avatar, name, and position -->
+<table align="center" cellpadding="10" cellspacing="0" style="margin-bottom: 30px;">
+  <tr>
+    <td align="center" valign="middle" width="110">
+      <img src="https://avatars.githubusercontent.com/u/your_github_user_id?v=4" alt="Sameer Zakzak" width="100" height="100" style="border-radius: 50%; border: 2px solid #444;" />
+    </td>
+    <td align="left" valign="middle" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+      <h1 style="margin: 0; padding: 0; font-size: 2.8rem; color: #222;">Sameer Zakzak</h1>
+      <h3 style="margin: 5px 0 0 0; font-weight: 400; color: #555;">AI Engineer | Flutter Developer | IT Solutions Specialist</h3>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=Crafting+Elegant+Tech+for+Real+World+Impact;AI%2C+Flutter%2C+Media+Solutions" alt="Typing SVG">
