@@ -64,9 +64,3 @@ Based in **Athens, Greece**.
 ## Beyond the Featured Projects
 
 My public repositories also include work in Flutter/Firebase applications, cybersecurity portfolio tooling, OpenGL simulations, expert systems, and legacy Unity physics experiments.
-
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/sameer-zakzak)
-- [NextAIGate](https://nextaigate.com)
-- [GitHub](https://github.com/sameerzakzak-gr)
