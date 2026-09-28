@@ -1,79 +1,72 @@
 <h1 align="center">Sameer Zakzak</h1>
-<h3 align="center">AI Engineer | Flutter Developer</h3>
-
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=F8F8F2&center=true&vCenter=true&width=600&lines=Crafting+Elegant+Tech+for+Real+World+Impact;AI%2C+Flutter%2C+Media+Solutions" alt="Typing SVG">
+  <strong>AI & Data Engineer</strong><br/>
+  Python • FastAPI • Machine Learning • Computer Vision • Automation
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameer-zakzak">
+    <img src="https://img.shields.io/badge/LinkedIn-Sameer%20Zakzak-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://nextaigate.com">
+    <img src="https://img.shields.io/badge/NextAIGate-Website-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="NextAIGate"/>
+  </a>
+  <a href="https://github.com/sameerzakzak-gr">
+    <img src="https://img.shields.io/badge/GitHub-sameerzakzak--gr-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-I build elegant digital tools using AI, Flutter, and smart backend systems. Whether you need scalable apps, automated dashboards, or media-powered experiences, I deliver innovative, user-centered solutions.
+I build practical AI, data, automation, and software systems with a strong focus on turning ideas into working products.
 
----
+My current work centers on **Python, FastAPI, machine learning, computer vision, data-driven applications, and workflow automation**. I also bring full-stack and mobile experience, which helps me take projects from backend logic and APIs through to usable interfaces.
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+Based in **Athens, Greece**.
 
-### 🔧 Tech Stack
+## Core Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFA611?style=flat-square&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-555555?style=flat-square&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-303030?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
 </p>
 
-</td>
-<td valign="top" width="50%">
+## Featured Work
 
-### 🤝 Connect With Me
+| Project | What it demonstrates |
+| --- | --- |
+| [**Real Estate AI CRM**](https://github.com/sameerzakzak-gr/real-estate-ai-crm) | FastAPI, AI-assisted workflows, Ollama, WhatsApp automation, lead qualification, property matching, and CRM logic |
+| [**BotReply**](https://github.com/sameerzakzak-gr/botreply) | AI-powered messaging automation for WhatsApp and Instagram with Supabase and CRM workflows |
+| [**Wine Quality ML**](https://github.com/sameerzakzak-gr/wine-quality-ml) | Reproducible classification workflow with pandas, scikit-learn, Random Forest, GridSearchCV, and Jupyter |
+| [**Computer Vision Eye Tracking**](https://github.com/sameerzakzak-gr/computer-vision-eye-tracking) | OpenCV, dlib facial landmarks, blink detection, eye tracking, and desktop interaction |
+| [**Enterprise HRMS**](https://github.com/sameerzakzak-gr/enterprise-hrms) | Full-stack HR management case study using Flutter, Laravel, MySQL, and REST APIs |
+| [**ArUco Object Measurement**](https://github.com/sameerzakzak-gr/aruco-object-measurement) | Python/OpenCV measurement system using ArUco markers for real-world scale calibration |
 
-<p>
-   <a href="mailto:sameerzakzak.gr@outlook.com" target="_blank" style="margin: 0 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" height="20" alt="Email" title="Email"/>
-  </a>
+## Current Focus
 
-  <a href="https://www.linkedin.com/in/sameer-zakzak" target="_blank" style="margin: 0 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" alt="LinkedIn" title="LinkedIn"/>
-  </a>
+- Applied AI and automation workflows
+- Python backend engineering and APIs
+- Machine learning and data analysis
+- Computer vision
+- Building portfolio projects that are reproducible, documented, and easy to review
 
-  <a href="https://github.com/sameerzakzak-gr" target="_blank" style="margin: 0 40px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" height="20" alt="GitHub" title="GitHub"/>
-  </a>
+## Beyond the Featured Projects
 
-  <a href="https://t.me/sameerzakzak" target="_blank" style="margin: 0 40px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="20" height="20" alt="Telegram" title="Telegram"/>
-  </a>
-</p>
+My public repositories also include work in Flutter/Firebase applications, cybersecurity portfolio tooling, OpenGL simulations, expert systems, and legacy Unity physics experiments.
 
-</td>
-  </tr>
-</table>
+## Connect
 
----
-
-## 🔭 Current Focus
-
-- AI tools for real-time financial and business decision-making  
-- Flutter apps with animated dashboards & Firebase backends  
-- Multilingual user interfaces and youth empowerment tech  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameerzakzak-gr&show_icons=true&hide_border=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameerzakzak-gr&layout=compact&hide_border=true&theme=github_dark" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameerzakzak-gr&style=flat-square&color=2B2B2B" alt="Profile Views">
-</p>
+- [LinkedIn](https://www.linkedin.com/in/sameer-zakzak)
+- [NextAIGate](https://nextaigate.com)
+- [GitHub](https://github.com/sameerzakzak-gr)
