@@ -46,12 +46,12 @@ Based in **Athens, Greece**.
 
 | Project | What it demonstrates |
 | --- | --- |
-| [**Real Estate AI CRM**](https://github.com/sameerzakzak-gr/real-estate-ai-crm) | FastAPI, AI-assisted workflows, Ollama, WhatsApp automation, lead qualification, property matching, and CRM logic |
-| [**BotReply**](https://github.com/sameerzakzak-gr/botreply) | AI-powered messaging automation for WhatsApp and Instagram with Supabase and CRM workflows |
-| [**Wine Quality ML**](https://github.com/sameerzakzak-gr/wine-quality-ml) | Reproducible classification workflow with pandas, scikit-learn, Random Forest, GridSearchCV, and Jupyter |
-| [**Computer Vision Eye Tracking**](https://github.com/sameerzakzak-gr/computer-vision-eye-tracking) | OpenCV, dlib facial landmarks, blink detection, eye tracking, and desktop interaction |
-| [**Enterprise HRMS**](https://github.com/sameerzakzak-gr/enterprise-hrms) | Full-stack HR management case study using Flutter, Laravel, MySQL, and REST APIs |
-| [**ArUco Object Measurement**](https://github.com/sameerzakzak-gr/aruco-object-measurement) | Python/OpenCV measurement system using ArUco markers for real-world scale calibration |
+| [**Real Estate AI CRM**](https://github.com/sameerzakzak-gr/real-estate-ai-crm) | FastAPI, AI workflows, Ollama, WhatsApp automation, and CRM logic |
+| [**BotReply**](https://github.com/sameerzakzak-gr/botreply) | AI messaging automation for WhatsApp and Instagram with Supabase |
+| [**Wine Quality ML**](https://github.com/sameerzakzak-gr/wine-quality-ml) | Reproducible ML classification with pandas and scikit-learn |
+| [**Computer Vision Eye Tracking**](https://github.com/sameerzakzak-gr/computer-vision-eye-tracking) | OpenCV/dlib eye tracking, blink detection, and desktop interaction |
+| [**Enterprise HRMS**](https://github.com/sameerzakzak-gr/enterprise-hrms) | Full-stack HR platform with Flutter, Laravel, MySQL, and REST APIs |
+| [**ArUco Object Measurement**](https://github.com/sameerzakzak-gr/aruco-object-measurement) | OpenCV measurement using ArUco scale calibration |
 
 ## Current Focus
 
